@@ -135,4 +135,3 @@ The model achieves promising performance on the test set, with the confusion mat
 
 ---
 
-الآن جميع الصور مضمنة مع روابطها الصحيحة، وتم إضافة شارات (badges) وشكل أكثر احترافية. كل صورة ستظهر تلقائياً عند عرض الـ README في GitHub لأن الملفات موجودة في نفس المجلد.
